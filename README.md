@@ -3,7 +3,7 @@ The SSN Look-Up program is a console based program where users are able to quick
 
 I used a hash table of 1024 indices with AVL trees to handle conflicts. 
 An array was not used for this program. Instead, I used a hash table 
-Data persistance was achedived by serializing individual AVL trees so that the entire list is never loaded into the computer at once. 
+Data persistence was achieved by serializing individual AVL trees so that the entire list is never loaded into the computer at once. 
 
 
 How to run the program: 
